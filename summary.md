@@ -9,8 +9,9 @@ BooleanOperatorsTest
 
     Q1: What is the knowledge point of the test? Where is the official document to the knowledge point?
     
-    A1: To learn of the behaviors of basic boolean and bitwise operation and be able to use them.
-
+    A1: To learn of the behaviors of basic boolean and bitwise operation and be able to use them. 
+    http://www.java2s.com/Tutorials/Java/Data_Type_How_to/boolean/index.htm
+    
     Q2: Why the test failed at first?
     
     A2: Because the expected values are not set.
@@ -31,6 +32,7 @@ CharTypeTest
     Q1: What is the knowledge point of the test? Where is the official document to the knowledge point?
     
     A1: To learn of the characters that needs to be escaped before it can be used.
+    http://www.java2s.com/Tutorials/Java/Data_Type_How_to/char/index.htm
     
     Q2: Why the test failed at first?
     
@@ -54,7 +56,7 @@ FloatingTypeTest
 
     Q1: What is the knowledge point of the test? Where is the official document to the knowledge point?
     
-    A1: To learn about how java handles convertion of primitive float and double types and make use of existing functions defined in object classes. 
+    A1: To learn about how java handles convertion of primitive float and double types and make use of existing functions defined in object classes. http://www.java2s.com/Tutorials/Java/Data_Type_How_to/float/index.htm
     
     Q2: Why the test failed at first?
     
@@ -87,7 +89,7 @@ IntegerTypeTest
 
     Q1: What is the knowledge point of the test? Where is the official document to the knowledge point?
     
-    A1: To learn and make use of existing constants and functions defined in object classes, to know what would occur when an integer overflows or underflows, to know the difference of arithmetic operations on integers and doubles/floats, to differentiate the amount of bits an integer has from a short or long variable, to learn of the effects of post- and pre- incrementing a value.
+    A1: To learn and make use of existing constants and functions defined in object classes, to know what would occur when an integer overflows or underflows, to know the difference of arithmetic operations on integers and doubles/floats, to differentiate the amount of bits an integer has from a short or long variable, to learn of the effects of post- and pre- incrementing a value. http://www.java2s.com/Tutorials/Java/Data_Type_How_to/integer/index.htm
     
     Q2: Why the test failed at first?
     
